@@ -17,6 +17,7 @@ y adaptarlos a tus propios datos.
 | [`guia/02-conceptos.md`](guia/02-conceptos.md) | Los conceptos del curso: qué es un LLM, el bucle del agente, el contexto, los skills, la seguridad y la confianza |
 | [`guia/03-beer-lambert.md`](guia/03-beer-lambert.md) | Guía paso a paso del ejemplo de análisis de datos |
 | [`ejemplos/beer-lambert/`](ejemplos/beer-lambert/) | Datos, plantilla del skill y solución del ejemplo de análisis de datos |
+| [`skills/`](skills/) | Skills de terceros: el skill *grilling* de Matt Pocock, para planificar con el agente (submódulo de git) |
 | [`AGENTS.md`](AGENTS.md) | Instrucciones para tu propio agente de IA (ver abajo) |
 
 <!-- Pendiente: el ejemplo de reproducir un artículo a partir de sus datos (guía y carpeta en ejemplos/). -->

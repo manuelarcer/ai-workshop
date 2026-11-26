@@ -26,6 +26,7 @@ building a data analysis that checks itself), and learn to verify its results.
 | `guia/02-conceptos.md` | Course concepts: LLMs, the agent loop, context, skills, safeguards, trust |
 | `guia/03-beer-lambert.md` | Step-by-step guide for the Beer-Lambert example, milestones M0–M6 |
 | `ejemplos/beer-lambert/` | Data generator, skill template, and the solution notebook |
+| `skills/mattpocock-skills/` | Matt Pocock's skills repository (MIT), as a git submodule; the course uses `skills/productivity/grilling/SKILL.md` for planning with the agent. If the folder is empty, run `git submodule update --init` |
 | `LICENSE` | CC BY 4.0 for text, MIT for code |
 
 The second example (reproducing a published paper's figures from its deposited data) is
