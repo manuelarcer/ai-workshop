@@ -1,29 +1,16 @@
 # Skills de terceros
 
-## `mattpocock-skills/`
+## `grilling/`
 
-Repositorio de skills de Matt Pocock ([github.com/mattpocock/skills](https://github.com/mattpocock/skills),
-licencia MIT), incluido aquí como submódulo de git: es un enlace a su repositorio, no una copia.
+El skill **grilling** de Matt Pocock, copiado sin cambios de su repositorio
+[github.com/mattpocock/skills](https://github.com/mattpocock/skills)
+(`skills/productivity/grilling/`, versión `6f7f783`). Licencia MIT: el aviso de copyright
+y la licencia están en [`grilling/LICENSE`](grilling/LICENSE).
 
-El skill que se usa en el curso es **grilling** (parte 3, «Planificar con el agente»):
-
-```
-mattpocock-skills/skills/productivity/grilling/SKILL.md
-```
-
-El agente te entrevista por rondas antes de escribir código. Cada pregunta trae una respuesta
-recomendada, y basta con responder «sí» para aceptarla. Los datos los busca el agente; las
-decisiones son tuyas. Termina cuando no queda ninguna decisión abierta.
-
-## Si la carpeta está vacía
-
-Un submódulo no se descarga con un `git clone` normal. Desde la carpeta del repositorio:
-
-```
-git submodule update --init
-```
-
-O, al clonar, usa `git clone --recursive`.
+Se usa en la parte 3 del curso, «Planificar con el agente». El agente te entrevista por
+rondas antes de escribir código. Cada pregunta trae una respuesta recomendada, y basta con
+responder «sí» para aceptarla. Los datos los busca el agente; las decisiones son tuyas.
+Termina cuando no queda ninguna decisión abierta.
 
 ## Usarlo en opencode
 
