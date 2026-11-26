@@ -1,0 +1,6 @@
+# Archivos locales que no deben subirse a este repositorio público
+.DS_Store
+.env
+.venv/
+__pycache__/
+.ipynb_checkpoints/
